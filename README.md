@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to analyze and visualize plant performance data for a company using **Power BI**. The data comes from an Excel file containing detailed records related to various aspects of plant operations and performance. The primary goal is to extract actionable insights and present them through intuitive and interactive visualizations in Power BI, facilitating decision-making and performance tracking.
 
+![01_Load_Map](./Performance_Report_Page.png)
+
 ## Data Source
 The dataset used in this analysis was sourced from an Excel file named `Plant_DTS.xls`. This file contains key metrics related to plant performance, such as production rates, equipment utilization, energy consumption, and other operational indicators.
 
